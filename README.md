@@ -1,6 +1,6 @@
-- 👋 Oii, Eu sou @disghostmin
+- 👋 Oii, Eu sou Eduarda Barbosa Ferreira Silva;
 - 👀 Sou interessada em design, moda e programação;
-- 🌱 Estou aprendendo React e C++ em arduino, mas sei o basico de JS, HTML e CSS;
+- 🌱 Tenho curso técnico de informática para internet, portanto tenho conhecimento de JS, HTML, CSS, NEXT, React, MongoDB e Arduino(Mega e UNO).
 
 <!---
 disghostmin/disghostmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
